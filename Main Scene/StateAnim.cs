@@ -1,0 +1,25 @@
+﻿public enum StateAnim
+{
+    hungry,
+    goOut,
+    thristy,
+    licking,
+    sleeping,
+    observing,
+    eat,
+    pat,
+    dontWantEat,
+    wantPup,
+    pee,
+    pup,
+    play,
+    disturbed,
+    med,
+    drink,
+    bath,
+    died,
+    sick,
+    combing,
+    powdering,
+    hairball
+}
